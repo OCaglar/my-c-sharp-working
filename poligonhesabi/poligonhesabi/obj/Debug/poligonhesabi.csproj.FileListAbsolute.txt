@@ -1,0 +1,45 @@
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe.config
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.pdb
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csprojResolveAssemblyReference.cache
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Form1.resources
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Properties.Resources.resources
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csproj.GenerateResource.Cache
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.exe
+c:\users\tunah\onedrive\belgeler\visual studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe.config
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Form1.resources
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Properties.Resources.resources
+C:\Users\HAKAN\Desktop\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csproj.GenerateResource.Cache
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe.config
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Form1.resources
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Properties.Resources.resources
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csproj.GenerateResource.Cache
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Documents\Visual Studio 2015\Projects\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe.config
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Form1.resources
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Properties.Resources.resources
+C:\Users\HAKAN\Desktop\Yeni klasör\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csproj.GenerateResource.Cache
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe.config
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.exe
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\bin\Debug\poligonhesabi.pdb
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Form1.resources
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.Properties.Resources.resources
+C:\Users\HAKAN\Desktop\Yeni klasör (2)\poligonhesabi\poligonhesabi\obj\Debug\poligonhesabi.csproj.GenerateResource.Cache
